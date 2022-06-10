@@ -5,3 +5,11 @@
 # TP 2 
 1. Demander à l'utilisateur d'entrée des valeurs depuis son clavier (scanf)
 2. Pour chaque valeur saisie, vous allez enregistrer ces valeurs dans un fichier `fichier.txt`
+
+# TP 3
+1. prenre deux fichiers `fic1.txt` et `fic2.txt`
+2. Zipper les deux fichiers dans un dossier `dos.zip`
+
+# TP 4
+1. Prendre un dossier `C://MesDocuments`
+2. Zipper tous les elements du dossier dans un fichier `all.zip`
