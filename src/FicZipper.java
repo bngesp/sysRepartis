@@ -7,7 +7,13 @@ public class FicZipper {
         // prendre le fichier files/test.txt
         // compresser et le mettre zip/text.zip
         try {
-            File fic = new File("src/files/test.txt");
+            File fic = new File("src/files");
+            if(fic.isDirectory()){
+                File[] f = fic.listFiles();
+                for (File c:f) {
+
+                }
+            }
             FileInputStream is = new FileInputStream(fic);
 
             // flux compressé

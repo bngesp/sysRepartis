@@ -13,3 +13,7 @@
 # TP 4
 1. Prendre un dossier `C://MesDocuments`
 2. Zipper tous les elements du dossier dans un fichier `all.zip`
+
+# TP 5: Client Serveur
+1. Ecrire un programme client et serveur et faire de telle sorte que lorsqu'un client se connecte, le serveur lui envoie un message de bienvenue
+2. Ecrire un programme client/serveur permettant de voir dans le serveur toutes les informations entrées au clavier du client
