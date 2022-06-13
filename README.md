@@ -17,3 +17,11 @@
 # TP 5: Client Serveur
 1. Ecrire un programme client et serveur et faire de telle sorte que lorsqu'un client se connecte, le serveur lui envoie un message de bienvenue
 2. Ecrire un programme client/serveur permettant de voir dans le serveur toutes les informations entrées au clavier du client
+
+# TP 6: UDP
+1. reprendre le `TP 5` en mode UDP
+
+# TP 7: FTP => File Transfert protocol
+1. Ecrire un programme client/serveur qui permet qui permet au client d'envoyer un fichier au serveur
+2. Ecrire un programme client/Serveur qui permet au client de compresser un dossier de fichier et de l'envoyer au serveur
+3. A rendre le samedi `02/07/2022`
