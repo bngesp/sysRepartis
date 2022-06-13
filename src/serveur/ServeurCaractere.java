@@ -25,6 +25,7 @@ public class ServeurCaractere {
             dout.writeUTF("Bonjour le client");
 
             dout.flush();
+            // afficher le msg du client
 
             // fermeture de la connexion
             dout.close();

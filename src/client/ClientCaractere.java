@@ -16,7 +16,7 @@ public class ClientCaractere {
 
             String msg = dif.readUTF();
             System.out.println(msg);
-
+            // envoyer un msg au serveur -> merci pour le service
             //fermeture de la connexion
             dif.close();
             c.close();
